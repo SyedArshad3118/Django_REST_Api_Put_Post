@@ -2,9 +2,11 @@
 
 1. For cloning: git clone https://github.com/SyedArshad3118/Django_REST_Api_Put_Post.git
 
-2. To Run docker:	
-      a. docker-compose build
-			    Once its done, go for step-b
+2. open the command prompt with the downloaded project location
+
+3. Run docker command (Inside the opened command prompt of project directory):	
+      -- a. docker-compose build
+			(Once its done, go for step-b) -- 
 			b. docker-compose up
 			
 3. Get method URL:	
