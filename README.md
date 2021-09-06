@@ -5,9 +5,9 @@
 2. open the command prompt with the downloaded project location
 
 3. Run docker command (Inside the opened command prompt of project directory):	
-      -- a. docker-compose build
-			(Once its done, go for step-b) -- 
-			b. docker-compose up
+      -- 1st docker command -->  [docker-compose build]
+			(Once its done, type next command) -- 
+			- 2nd docker command --> [docker-compose up]
 			
 3. Get method URL:	
       http://127.0.0.1:8000   ->  Welcome message
