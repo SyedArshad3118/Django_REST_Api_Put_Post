@@ -1,6 +1,6 @@
 # Django_REST_Api_Put_Post
 
-1. For cloning: git clone 
+1. For cloning: git clone https://github.com/SyedArshad3118/Django_REST_Api_Put_Post.git
 
 2. To Run docker:	
       a. docker-compose build
